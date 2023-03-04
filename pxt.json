@@ -1,0 +1,48 @@
+{
+    "name": "flappy bird ripoff",
+    "description": "",
+    "dependencies": {
+        "device": "*",
+        "multiplayer": "*"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "assets.json",
+        "main.py",
+        "images.g.jres",
+        "images.g.ts",
+        "tilemap.g.jres",
+        "tilemap.g.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "1.12.24",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "blocksprj",
+    "palette": [
+        "#000000",
+        "#000001",
+        "#F3E600",
+        "#E2B700",
+        "#FFFFE3",
+        "#8AC048",
+        "#4BAE4E",
+        "#528A2C",
+        "#71C5CF",
+        "#654E56",
+        "#E0D795",
+        "#71BF2E",
+        "#FFFFFE",
+        "#FF5F40",
+        "#FFFFC4",
+        "#000000"
+    ]
+}

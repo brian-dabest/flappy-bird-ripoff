@@ -1,0 +1,51 @@
+{
+    "nextPaletteID": 2,
+    "palettes": {
+        "custom0": {
+            "id": "custom0",
+            "name": "Custom",
+            "colors": [
+                "#000000",
+                "#A8F020",
+                "#FF2121",
+                "#FF93C4",
+                "#FF8135",
+                "#FFF609",
+                "#249CA3",
+                "#78DC52",
+                "#003FAD",
+                "#87F2FF",
+                "#8E2EC4",
+                "#A4839F",
+                "#5C406c",
+                "#E5CDC4",
+                "#91463d",
+                "#000000"
+            ],
+            "custom": true
+        },
+        "custom1": {
+            "id": "custom1",
+            "name": "Flappy bird",
+            "colors": [
+                "#000000",
+                "#000001",
+                "#F3E600",
+                "#E2B700",
+                "#FFFFE3",
+                "#8AC048",
+                "#4BAE4E",
+                "#528A2C",
+                "#71C5CF",
+                "#654E56",
+                "#E0D795",
+                "#71BF2E",
+                "#FFFFFE",
+                "#FF5F40",
+                "#FFFFC4",
+                "#000000"
+            ],
+            "custom": true
+        }
+    }
+}
